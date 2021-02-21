@@ -26,10 +26,12 @@ I used:
 
 As noted, the application type and classification data was compressed somewhat. This allows for somewhat faster processing, and probably won't reduce the value of the analysis much as only the smaller groups (by number of instances) are grouped together.
 
-Reduction of Application Types:
+**Reduction of Application Types:**
+
 ![Reduction of Application Types](Resources/ApplicationType_Reduction.png)
 
-Classifications Modeled:
+**Classifications Modeled:**
+
 ![Classification Types](Resources/ClassificationType_Reduction.png)
 
 
@@ -70,4 +72,4 @@ For further study:
 
 ## Disclosures
 
-All these grants were made after a review of factors that cannot be easily encapsulated into the input data; ie. we have no metrix for the passion and inventiveness of an organizations board and volunteers. Even if we had found a model with a better fit, this would not replace our current grant process - at best, it would add some insight, and maybe let us focus on some of the challenges that emerge by grant feature.
+All these grants were made after a review of factors that cannot be easily encapsulated into the input data; ie. we have no metric for the passion and inventiveness of an organization's board and volunteers. Even if we had found a model with a better fit, this would not replace our current grant process - at best, it would add some insight, and maybe let us focus on some of the challenges that emerge by grant feature.
